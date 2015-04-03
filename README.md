@@ -1,1 +1,3 @@
-# tres-framework.github.io
+# Tres Framework
+
+The website for Tres Framework.
